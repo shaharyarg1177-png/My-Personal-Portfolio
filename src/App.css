@@ -1,0 +1,10 @@
+.portfolio-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(151, 101, 61, 0.1), transparent 34rem),
+    var(--page-bg);
+}
+
+main {
+  display: block;
+}
