@@ -13,8 +13,8 @@ function Experience() {
           <article className="timeline-item" data-reveal>
             <span className="timeline-year">20/09/2024 — Current</span>
             <div>
-              <h3>CSR Mindbridge Pvt Ltd</h3>
-              <p>Customer Service Representative &amp; Team Coordinator.</p>
+              <h3>Human Resources Manager</h3>
+              <p>Mindbridge Pvt Ltd</p>
               <ul>
                 <li>Experienced in different campaigns.</li>
                 <li>Temu in which we manage products as per client requirements and project standards.</li>
@@ -26,7 +26,7 @@ function Experience() {
           <article className="timeline-item" data-reveal>
             <span className="timeline-year">02/02/2024 — 31/08/2024</span>
             <div>
-              <h3>Business Development Executive</h3>
+              <h3>Human Resources Manager</h3>
               <p>Billionaire Investment Group</p>
               <ul>
                 <li>Attracting new clients by innovating and overseeing the sales process for the business.</li>
@@ -42,7 +42,7 @@ function Experience() {
           <article className="timeline-item" data-reveal>
             <span className="timeline-year">15/02/2023 — 28/02/2024</span>
             <div>
-              <h3>Dispatcher</h3>
+              <h3>Human Resources Manager</h3>
               <p>Desire Dispatch LLC (Remote)</p>
               <ul>
                 <li>Managing truck drivers&apos; schedules and routes.</li>
@@ -57,7 +57,7 @@ function Experience() {
           <article className="timeline-item" data-reveal>
             <span className="timeline-year">25/03/2023 — 31/01/2024</span>
             <div>
-              <h3>TSO (Territory Sales Officer)</h3>
+              <h3>Human Resources Manager</h3>
               <p>PepsiCo Lays</p>
               <ul>
                 <li>Ensuring appropriate staffing levels and compliance with all regulatory standards.</li>
